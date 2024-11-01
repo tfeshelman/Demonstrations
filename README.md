@@ -4,11 +4,11 @@
 	</a>
 </div>
 <div align="center" style="padding:0%;">
-	<img src="https://tylereshelman.com/img/Book_R&J.png" width="19.7%" alt="Psychedelic Book Cover"/>
-	<img src="https://tylereshelman.com/img/MonaOlive.jpg" width="19.7%" alt="Mona Olive"/>
-	<img src="https://tylereshelman.com/img/Hampster_Axe_big.png" width="19.7%" alt="Axe Hamster"/>
-	<img src="https://tylereshelman.com/img/Moon_Circle.jpg" width="19.7%" alt="Moon Circle"/>
-	<img src="https://tylereshelman.com/img/Self-Portrait.jpg" width="19.7%" alt="Self Portrait"/>
+	<img src="https://tylereshelman.com/img/Book_R&J.png" width="19.5%" alt="Psychedelic Book Cover"/>
+	<img src="https://tylereshelman.com/img/MonaOlive.jpg" width="19.5%" alt="Mona Olive"/>
+	<img src="https://tylereshelman.com/img/Hampster_Axe_big.png" width="19.5%" alt="Axe Hamster"/>
+	<img src="https://tylereshelman.com/img/Moon_Circle.jpg" width="19.5%" alt="Moon Circle"/>
+	<img src="https://tylereshelman.com/img/Self-Portrait.jpg" width="19.5%" alt="Self Portrait"/>
 </div>
 
 #
