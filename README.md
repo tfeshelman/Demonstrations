@@ -1,16 +1,16 @@
-<div align="center" style="padding:0%;">
+<div align="center">
 	<a href="https://tylereshelman.com/" target="_blank">
 		<img src="https://tylereshelman.com/img/website_header.png" alt="My website header"/>
 	</a>
 </div>
-<div align="center" style="padding:0%;">
-	<img src="https://tylereshelman.com/img/Bulbs.jpg" width="14%" alt="Blender Lightbulbs"/>
-	<img src="https://tylereshelman.com/img/Sword_2.png" width="14%" alt="Pixel Sword"/>
-	<img src="https://tylereshelman.com/img/Book_R&J.png" width="14%" alt="Psychedelic Book Cover"/>
-	<img src="https://tylereshelman.com/img/Hampster_Axe_big.png" width="14%" alt="Axe Hamster"/>
-	<img src="https://tylereshelman.com/img/MonaOlive.jpg" width="14%" alt="Mona Olive"/>
-	<img src="https://tylereshelman.com/img/Self-Portrait.jpg" width="14%" alt="Self Portrait"/>
-	<img src="https://tylereshelman.com/img/Moon_Circle.jpg" width="14%" alt="Moon Circle"/>
+<div align="center">
+	<img src="https://tylereshelman.com/img/Bulbs.jpg" width="13.8%" alt="Blender Lightbulbs"/>
+	<img src="https://tylereshelman.com/img/Sword_2.png" width="13.8%" alt="Pixel Sword"/>
+	<img src="https://tylereshelman.com/img/Book_R&J.png" width="13.8%" alt="Psychedelic Book Cover"/>
+	<img src="https://tylereshelman.com/img/Hampster_Axe_big.png" width="13.8%" alt="Axe Hamster"/>
+	<img src="https://tylereshelman.com/img/MonaOlive.jpg" width="13.8%" alt="Mona Olive"/>
+	<img src="https://tylereshelman.com/img/Self-Portrait.jpg" width="13.8%" alt="Self Portrait"/>
+	<img src="https://tylereshelman.com/img/Moon_Circle.jpg" width="13.8%" alt="Moon Circle"/>
 
 </div>
 
