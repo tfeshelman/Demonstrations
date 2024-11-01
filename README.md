@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://tylereshelman.com/">
+	<a href="https://tylereshelman.com/" target="_blank">
 		<img src="https://tylereshelman.com/img/website_header.png" alt="My website header"/>
 	</a>
 </p>
