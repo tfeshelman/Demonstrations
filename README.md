@@ -4,14 +4,7 @@
 	</a>
 </div>
 <div align="center">
-	<img src="https://tylereshelman.com/img/Bulbs.jpg" width="13.8%" alt="Blender Lightbulbs"/>
-	<img src="https://tylereshelman.com/img/Sword_2.png" width="13.8%" alt="Pixel Sword"/>
-	<img src="https://tylereshelman.com/img/Book_R&J.png" width="13.8%" alt="Psychedelic Book Cover"/>
-	<img src="https://tylereshelman.com/img/Hampster_Axe_big.png" width="13.8%" alt="Axe Hamster"/>
-	<img src="https://tylereshelman.com/img/MonaOlive.jpg" width="13.8%" alt="Mona Olive"/>
-	<img src="https://tylereshelman.com/img/Self-Portrait.jpg" width="13.8%" alt="Self Portrait"/>
-	<img src="https://tylereshelman.com/img/Moon_Circle.jpg" width="13.8%" alt="Moon Circle"/>
-
+	<img src="https://tylereshelman.com/img/example-header.png" width=100% alt="Example"/>
 </div>
 
 #
