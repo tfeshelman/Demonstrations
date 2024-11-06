@@ -14,17 +14,17 @@ The purpose of this page is to demonstration knowledge of programming concepts, 
 
 #
 <div align="center">
+	<a href="https://github.com/tfeshelman/C-Demo">
+		<img src="https://tylereshelman.com/img/gitBanners/cpp-fizzbuzz-redo.png" alt="CPP Demos" width=70%/>
+	</a>
+	<p style="text-align:center;"><b>C++ Demonstrations</b></p>
+
+#
+<div align="center">
 	<a href="https://github.com/tfeshelman/CSharp-Demo">
 		<img src="https://tylereshelman.com/img/gitBanners/csharp.png" alt="C# Demos" width=70%/>
 	</a>
 	<p style="text-align:center;"><b>C# Demonstrations</b></p>
-
-#
-<div align="center">
-	<a href="https://github.com/tfeshelman/C-Demo">
-		<img src="https://tylereshelman.com/img/gitBanners/cpp-fizzbuzz.png" alt="CPP Demos" width=70%/>
-	</a>
-	<p style="text-align:center;"><b>C++ Demonstrations</b></p>
 
 #
 <div align="center">
